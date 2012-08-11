@@ -11,7 +11,7 @@ public class MyBotMain {
         bot.setVerbose(true);
         try{
         // Maak verbinding met een IRC server.
-        bot.connect("irc.bujanoci.net");
+        bot.connect("irc.unixgarden.nl");
         }
         catch (Exception e)
         {
